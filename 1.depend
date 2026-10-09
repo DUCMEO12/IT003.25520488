@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1791508178 source:c:\dsa\ex1\1\main.cpp
+	<iostream>
+	<vector>
+	<random>
+	<algorithm>
+	<chrono>
+	<iomanip>
+
